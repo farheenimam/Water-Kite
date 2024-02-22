@@ -102,4 +102,5 @@ This HTML consists of the same navbar button as of *index.html* except the **Hom
 The static folder consists of my page **CSS** with name *styles.css* and all the images required from my page like logo, background image, islands, and resorts images.
 
 #### WHY DOES MY WEBSITE LOOK SO BLUE AND WHY NAME THE WEBSITE WATERKITE?
-The reason for **WaterKite** being so blue is because as blue is the color of the sea and the sky, it also symbolizes serenity, and calmness> The **WaterKite** is randomly chosen by me, and also represents one of the beach activity.
+The reason for **WaterKite** being so blue is because as blue is the color of the sea and the sky, it also symbolizes serenity, and calmness.
+The **WaterKite** is randomly chosen by me, and also represents one of the beach activity.
